@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Icon from '@/components/ui/icon';
 
-const BED_IMAGE = 'https://cdn.poehali.dev/projects/1eec6480-8d4b-43c2-9345-cdd2bc465662/files/a168f6e2-1b0a-4b9c-88bd-3c95545863cb.jpg';
+const BED_IMAGE = 'https://cdn.poehali.dev/projects/1eec6480-8d4b-43c2-9345-cdd2bc465662/bucket/3f871e25-3708-49c5-b408-812d783a8e7c.jpeg';
 const TABLE_IMAGE = 'https://cdn.poehali.dev/projects/1eec6480-8d4b-43c2-9345-cdd2bc465662/files/f2048c34-6d8f-4586-8fbc-ba6757aa8173.jpg';
 const TV_IMAGE = 'https://cdn.poehali.dev/projects/1eec6480-8d4b-43c2-9345-cdd2bc465662/files/7ee370a7-dd6d-40e2-ad8f-8498f29fab81.jpg';
 
